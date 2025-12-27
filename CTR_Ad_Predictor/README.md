@@ -1,10 +1,7 @@
 ROC-AUC: 0.5918
 
 LogLoss: 0.4613
-
-
-Модель сохранена в models/catboost_baseline.cbm
-
+---
 
 Топ 10 важных признаков:
 
@@ -27,6 +24,7 @@ user_depth            5.821296
 campaign_id           5.670666  
 
 is_day                5.460299  
+
 
 
 
